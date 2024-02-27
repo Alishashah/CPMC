@@ -1,0 +1,45 @@
+.cont{
+    background-color:aliceblue;
+}
+
+.hr-1{
+    width: 10%;
+    color: black;
+
+}
+.cont-1{
+    width: 80%;
+    height: 240px;
+}
+
+.bt-1{
+    width: 50%;
+    margin-top: 20px;
+    height: 50px;
+    color:white;
+    background-color: #249494;
+    border-radius: 6px;
+    border: none;
+}
+
+.bt-1:hover{
+    background-color: white;
+    border: 2px solid #249494;
+    color: #249494;
+}
+
+.bt-2{
+    width: 50%;
+    margin-top: 20px;
+    height: 50px;
+    color: white;
+    background-color: blue;
+    border-radius: 6px;
+    border: none;
+
+}
+.bt-2:hover{
+    background-color: white;
+    border: 2px solid blue;
+    color: blue;
+}
